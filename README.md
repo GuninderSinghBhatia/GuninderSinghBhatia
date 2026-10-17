@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:guninder.growth@gmail.com"><img src="https://img.shields.io/badge/Email-guninder.growth%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=GuninderSinghBhatia&style=for-the-badge&color=312e81&label=Profile+Views"/>
 </p>
 
 ---
@@ -59,15 +58,11 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuninderSinghBhatia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuninderSinghBhatia&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuninderSinghBhatia&layout=donut&card_width=320&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GuninderSinghBhatia&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuninderSinghBhatia&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=100&section=footer" width="100%"/>
