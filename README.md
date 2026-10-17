@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,js,ts,react,nextjs,nodejs,express,tailwind,electron,sqlite,git,github,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,js,ts,react,nextjs,nodejs,express,tailwind,electron,git,github,vscode&perline=8&theme=dark" />
 </p>
 
 <p align="center">
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 </p>
 
 ---
@@ -50,7 +49,6 @@
 | 🛒 **[Big Mart Sales Prediction](https://github.com/GuninderSinghBhatia/big-mart-sales-prediction)** | Regression models predicting item-outlet sales | scikit-learn |
 | 🚗 **[Car Price Prediction](https://github.com/GuninderSinghBhatia/car-price-prediction)** | Used-car price prediction with Linear & Lasso Regression | scikit-learn |
 | ❤️ **[Heart Disease Prediction](https://github.com/GuninderSinghBhatia/heart-disease-prediction)** | Logistic Regression classifier on clinical data | scikit-learn |
-| 🥐 **[Bakery Ordering Site](https://github.com/GuninderSinghBhatia/portfolio-01-bakery-ordering)** | Online ordering for a French bakery — Stripe checkout, EN/FR | React 19 · Tailwind · Express |
 
 ---
 
